@@ -50,7 +50,9 @@ function setResetBtn() {
 }
 
 // Start/Stop Button
-btnLeft.addEventListener('click', function () {
+btnLeft.addEventListener('click', function (
+
+) {
 
 });
 
